@@ -1,6 +1,9 @@
 Python Flask Application with Psutil to Monitor System resources
 This is a Flask application that utilizes the psutil library to obtain CPU and memory usage information of the server running on port 5000.
 
+<img width="323" alt="image" src="https://github.com/user-attachments/assets/1b5dd9fd-959a-4a97-83dd-4785ed645aa4">
+
+
 Getting Started
 
 **Clone the repository:**
