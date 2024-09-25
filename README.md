@@ -4,7 +4,7 @@
 Getting Started
 
 **Clone the repository:**
-git clone https://github.com/LondheShubham153/python-for-devops-masterclass.git
+git clone (https://github.com/kush-shah05/cpu-utilization-with-flask.git)
 
 cd advanced/
 
